@@ -30,9 +30,5 @@ As with all little open source projects like these, no warranty is provided with
 
 ## Donations
 As stated above, I accept donations!  The more donations I receive from this little project, the more time I can justify spending on it.  All donations go towards the upkeep and development of this project, such as the implementation of features and bug fixes.
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="K45UUCJ8D8RTQ">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+
+You can send donations to me at geenzmeister@gmail.com via PayPal!
